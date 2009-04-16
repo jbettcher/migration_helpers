@@ -1,0 +1,13 @@
+MigrationHelpers
+================
+
+Installs some nice little helpers for adding foreign keys and such
+
+
+Example
+=======
+
+add_foreign_key(:favorites, :talks)
+
+
+Copyright (c) 2009 Jon Bettcher (pufferfish), released under the MIT license

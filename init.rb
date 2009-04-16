@@ -1,0 +1,1 @@
+ActiveRecord::Migration.send :include, PufferFish::MigrationHelpers
