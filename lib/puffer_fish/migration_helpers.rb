@@ -49,6 +49,10 @@ module PufferFish
         end
       end
     end
+    
+    module Mysql2
+      include Mysql
+    end
 
     module PostgreSQL
       module ClassMethods
